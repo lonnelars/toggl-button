@@ -55,6 +55,8 @@
     "*://*.basecamphq.com/*",
     "*://*.atlassian.net/*",
     "*://*.jira.com/*",
+    "*://jira.kantega.no/*",
+    "*://jira.fiskeridirektoratet.no/*",
     "*://*.producteev.com/*",
     "*://*.bitbucket.org/*",
     "*://*.sifterapp.com/*",
@@ -119,6 +121,8 @@
         "*://*.atlassian.net/*",
         "*://*.atlassian.com/*",
         "*://*.jira.com/*",
+        "*://jira.kantega.no/*",
+        "*://jira.fiskeridirektoratet.no/*",
         "*://*.producteev.com/*",
         "*://*.sifterapp.com/*",
         "*://docs.google.com/*",
@@ -235,7 +239,9 @@
       "matches": [
         "*://*.atlassian.net/*",
         "*://*.atlassian.com/*",
-        "*://*.jira.com/*"
+        "*://*.jira.com/*",
+        "*://jira.kantega.no/*",
+        "*://jira.fiskeridirektoratet.no/*"
       ],
       "js": ["scripts/content/jira.js"]
     },
