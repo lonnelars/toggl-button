@@ -2,6 +2,10 @@
 
 Add Toggl one-click time tracking to popular web tools.
 
+## Fork info
+
+Adds local jira installations to the manifest to enable toggl button on these sites.
+
 ## Compatible services
   - [TeamWeek][2]
   - [Pivotal tracker][3]
